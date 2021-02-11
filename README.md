@@ -19,7 +19,7 @@ goes to @shiv_a_bot who made this for discord.The
 name is only solo but it can do multi-quad things.
 
 Discord : @DarkXStar lëgêñd'gød 😉
-Channel : @solo_bot_chats
+Channel : https://discord.gg/VQTUhk4Q
 
 
 ### Tutorial
