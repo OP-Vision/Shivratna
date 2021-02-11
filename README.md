@@ -13,8 +13,8 @@ in discord. Enjoy with your own making Bot 😘👍[!Melz_Boy](https://telegra.p
 
 ### Credit
 
-I have made this chatbot for chat or many various this 
-added to make it more powerful. The one and only credit
+I have made this chatbot for chat or many various things to be added to this 
+to make it more powerful. The one and only credit
 goes to @shiv_a_bot who made this for discord.The
 name is only solo but it can do multi-quad things.
 
@@ -42,15 +42,13 @@ risk.
          ---- Risk hai to Ishq hai ----
 
 
-### Guides
-
-For more details see [GitHub Flavoured Melz_Boy]
-
-
 ### Queries
 
-We will help u or short it out.😉👍
-(https://GitHub.com/contact/Melz_Boy/Solo_Bot)
+<a href="https://discord.gg/Snf3r4T6"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Discord"></a>
+<a href="https://discord.gg/Snf3r4T6"><img src="https://img.shields.io/badge/Join-Support%20Server-blue.svg?style=for-the-badge&logo=Discord"><
+
+ We will help u or short it out.😉👍
+
 
 
 ### Support or Contact
