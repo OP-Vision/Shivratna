@@ -6,16 +6,16 @@ to maintain and preview the content for our website in
 S_L files
 
 
-### Solo_Bot
+### ⚡Solo_Bot⚡
 
 Solo_Bot is a lightweight and easy-to-use for chatting
-in discord. Enjoy with your own making Bot 😘👍[!Melz_Boy](https://telegra.ph/file/3c81adc3424bfd4e6b48e.jpg)
+in discord. Enjoy with your own making Bot 😘👍[!Melz_Boy]https://(telegra.ph/file/3c81adc3424bfd4e6b48e.jpg)
 
 ### Credit
 
 I have made this chatbot for chat or many various things to be added to this 
 to make it more powerful. The one and only credit
-goes to [shiv_a_bot](https://d.me/shiv_a_bot) who made this for discord.The
+goes to [@shiv_a_bot](https://t.me/shiv_a_bot) who made this for discord.The
 name is only solo but it can do multi-quad things.
 
 Discord : https://discord.gg/Snf3r4T6
