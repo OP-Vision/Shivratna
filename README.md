@@ -15,7 +15,7 @@ in discord. Enjoy with your own making Bot 😘👍[!Melz_Boy](https://telegra.p
 
 I have made this chatbot for chat or many various things to be added to this 
 to make it more powerful. The one and only credit
-goes to @shiv_a_bot who made this for discord.The
+goes to [shiv_a_bot](https://d.me/shiv_a_bot) who made this for discord.The
 name is only solo but it can do multi-quad things.
 
 Discord : https://discord.gg/Snf3r4T6
