@@ -23,8 +23,8 @@ Discord : https://discord.gg/Snf3r4T6
 
 
 ### Tutorial
-<a href="https://youtu.be/GE5eHVo1sMQ"><img src="https://img.shields.io/badge/logo=Youtube"></a>
-<a href="https://youtu.be/GE5eHVo1sMQ"><img src="https://img.shields.io/youtube/views/M2FQJq_sHp4?style=social">
+<a href="https://youtu.be/vzMYnYpMmKE"><img src="https://img.shields.io/badge/logo=Youtube"></a>
+<a href="https://youtu.be/vzMYnYpMmKE"><img src="https://img.shields.io/youtube/views/M2FQJq_sHp4?style=social">
 
 
 
