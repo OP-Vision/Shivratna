@@ -18,7 +18,8 @@ added to make it more powerful. The one and only credit
 goes to @shiv_a_bot who made this for discord.The
 name is only solo but it can do multi-quad things.
 
-Discord : @DarkXStar lëgêñd'gød 😉
+Discord : https://discord.gg/Snf3r4T6
+
 Channel : https://discord.gg/VQTUhk4Q
 
 
@@ -28,7 +29,6 @@ Link For YouTube video : https://youtu.be/GE5eHVo1sMQ
 
 
 ### Layout
-
 Our page site will use the layout and styles from
 Jekyll Themes . The name of the theme is saved in the
 Jekyll'config.ytml configuration file.
