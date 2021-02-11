@@ -1,6 +1,6 @@
 # Welcome to Melz_Boy Page
 
-You can see this me (https://github.com/Melz_Boy
+You can see this is me (https://github.com/Melz_Boy
 /Solo_Bot/edit/master/README.md)
 to maintain and preview the content for our website in 
 S_L files
@@ -9,7 +9,7 @@ S_L files
 ### Solo_Bot
 
 Solo_Bot is a lightweight and easy-to-use for chatting
-in discord. Enjoy with your own making Bot 😘👍
+in discord. Enjoy with your own making Bot 😘👍[!Melz_Boy](https://telegra.ph/file/3c81adc3424bfd4e6b48e.jpg)
 
 ### Credit
 
@@ -20,12 +20,12 @@ name is only solo but it can do multi-quad things.
 
 Discord : https://discord.gg/Snf3r4T6
 
-Channel : https://discord.gg/VQTUhk4Q
 
 
 ### Tutorial
+<a href="https://youtu.be/GE5eHVo1sMQ"><img src="https://img.shields.io/badge/logo=Youtube"></a>
+<a href="https://youtu.be/GE5eHVo1sMQ"><img src="https://img.shields.io/youtube/views/M2FQJq_sHp4?style=social">
 
-Link For YouTube video : https://youtu.be/GE5eHVo1sMQ
 
 
 ### Layout
