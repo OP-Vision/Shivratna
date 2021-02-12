@@ -52,9 +52,7 @@ risk.
 
 ### Support or Contact
 
-Having trouble with pages or Bot ? Check out our
-Documentation.(https://github.com/contact/Melz_Boy/
-Solo_Bot)
+<a href="https://telegram.org/dlx"><img src="https://img.shields.io/badge/Join-Support%20DM-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
