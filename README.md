@@ -1,9 +1,8 @@
 # Welcome to Melz_Boy Page
 
-You can see this is me (https://github.com/Melz_Boy
-/Solo_Bot/edit/master/README.md)
-to maintain and preview the content for our website in 
-S_L files
+[![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/shivratna-dotcom/Solo_Bot)
 
 
 ### ⚡Solo_Bot⚡
