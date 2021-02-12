@@ -4,6 +4,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/shivratna-dotcom/Solo_Bot)
 
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://telegram.org/dlx)
+
 
 ### ⚡Solo_Bot⚡
 
