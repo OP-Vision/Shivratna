@@ -12,7 +12,7 @@
 Solo_Bot is a lightweight and easy-to-use for chatting
 in discord. Enjoy with your own making Bot 😘👍
 
-### Credit
+### 💥Credit💥
 
 I have made this chatbot for chat or it could be added various things 
 to make it more powerful. The one and only credit
@@ -23,19 +23,19 @@ name is only solo but it can do multi-quad things.
 
 
 
-### Tutorial
+### 🌟Tutorial🌟
 <a href="https://youtu.be/vzMYnYpMmKE"><img src="https://img.shields.io/badge/logo=Youtube"></a>
 <a href="https://youtu.be/vzMYnYpMmKE"><img src="https://img.shields.io/youtube/views/M2FQJq_sHp4?style=social">
 
 
 
-### Layout
+### 🔥Layout🔥
 Our page site will use the layout and styles from
 Jekyll Themes . The name of the theme is saved in the
 Jekyll'config.ytml configuration file.
 
 
-### Risk 
+### ⚒️ Risk ⚒️
 
 If and wrong or misbehaving things happen with the 
 Bot I can't , so I told u twice that make it on your
@@ -43,7 +43,7 @@ risk.
          ---- Risk hai to Ishq hai ----
 
 
-### Queries
+### ❤️Queries❤️
 
 <a href="https://discord.gg/Snf3r4T6"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Discord"></a>
 <a href="https://discord.gg/Snf3r4T6"><img src="https://img.shields.io/badge/Join-Support%20Server-blue.svg?style=for-the-badge&logo=Discord"><
@@ -52,7 +52,7 @@ risk.
 
 
 
-### Support or Contact
+### ☠️Support or Contact☠️
 
 <a href="https://telegram.org/dlx"><img src="https://img.shields.io/badge/Join-Personal%20DM-red.svg?style=for-the-badge&logo=Telegram"></a>
 
