@@ -25,8 +25,8 @@ name is only solo but it can do multi-quad things.
 
 ### 🌟Tutorial🌟
 
-<a href="https://youtu.be/vzMYnYpMmKE"><img src="https://img.shields.io/badge/logo=Youtube"></a>
-<a href="https://youtu.be/vzMYnYpMmKE"><img src="https://img.shields.io/youtube/views/M2FQJq_sHp4?style=social">
+<a href="https://youtu.be/46AMx7N8I_Q"><img src="https://img.shields.io/badge/logo=Youtube"></a>
+<a href="https://youtu.be/46AMx7N8I_Q"><img src="https://img.shields.io/youtube/views/M2FQJq_sHp4?style=social">
 
 
 
