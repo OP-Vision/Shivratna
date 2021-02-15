@@ -4,7 +4,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/shivratna-dotcom/Solo_Bot)
 
-[![Contact Me](https://img.shields.io/badge/Instagram-Contact%20Me-informational)](https://www.instagram.com/invites/contact/?i=13ydjk6fjr71f&utm_content=i7afg0u)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://telegram.org/dlx)
 
 
 ### ⚡Solo_Bot⚡
