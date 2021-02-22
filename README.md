@@ -12,6 +12,7 @@
 Solo_Bot is a lightweight and easy-to-use for chatting
 in discord. Enjoy with your own making Bot 😘👍
 
+
 ### 💥Credit💥
 
 I have made this chatbot for chat or it could be added various things 
@@ -23,10 +24,12 @@ name is only solo but it can do multi-quad things.
 
 
 
+
 ### 🌟Tutorial🌟
 
 <a href="https://youtu.be/46AMx7N8I_Q"><img src="https://img.shields.io/badge/logo=Youtube"></a>
 <a href="https://youtu.be/46AMx7N8I_Q"><img src="https://img.shields.io/youtube/views/M2FQJq_sHp4?style=social">
+
 
 
 
@@ -35,6 +38,7 @@ name is only solo but it can do multi-quad things.
 Our page site will use the layout and styles from
 Jekyll Themes . The name of the theme is saved in the
 Jekyll'config.ytml configuration file.
+
 
 
 ### ⚒️ Risk ⚒️
