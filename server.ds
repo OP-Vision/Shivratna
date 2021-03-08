@@ -14,4 +14,4 @@ const discord = require ("discord.ds")
  }
   })
 
-client.login ("TOKEN") 
+client.login ("ODE4NTE3MTYwMzA4NjM3Njk3.YEZNgg.1tq8NeouBJTKqt3h0GxmvAXJj80") 
